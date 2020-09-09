@@ -17,6 +17,7 @@ includes:
   - api
   - campaigns_overview_report
   - campaigns_totals
+  - creatives
   - display_activity_report
   - display_creative_report
   - geofence_summary_report
@@ -62,7 +63,7 @@ includes:
   - unified_display_report
   - cvt_events
   - webhooks
-  - edge_webhook  
+  - edge_webhook
   - integrations
   - contacts
   - contact_interactions
