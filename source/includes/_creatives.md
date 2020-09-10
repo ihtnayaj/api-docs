@@ -7,7 +7,7 @@
 | GET | /client_reports/creatives/[gmaid]?[query_params] |
 #### API Name: creatives
 ### Usage
-Use GET to retrieve information for the Creatives API that will retrieve information on the creative.
+Use GET to retrieve creative information for a specified GMAID.
 
 ### Parameters
 
