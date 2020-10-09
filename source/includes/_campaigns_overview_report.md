@@ -9,13 +9,13 @@
 #### Usage
 Use GET to retrieve information for the Campaigns Overview report.
 
-<!--
-The data returned will include campaign performance metrics for the last 30 days and a campaign list with additional details and breakdowns per cycle.  Campaign are limited to those that have had activity within the previous year.  This means that a campaign that ended 13 months prior will not be included in the campaign list section.
--->
+<internal> The data returned will include campaign performance metrics for the last 30 days and a campaign list with additional details and breakdowns per cycle. </internal> Campaign are limited to those that have had activity within the previous year.  <internal> This means that a campaign that ended 13 months prior will not be included in the campaign list section. </internal>
+
+<internal> Test </internal>
 
 The performance metrics for the last 30 days are across all running campaigns and will include:
 
-- Total Impressions
+- <internal> Total Impressions </internal>
 - Total Clicks
 - Total Calls
 - Total Emails
@@ -60,9 +60,9 @@ None
 
 ### Response Data Details
 
-| Field Name | Datatype | Description |
-|---|---|---|
-|`report_type`|String|Type of report.|
+| Field Name | Datatype | Description | Internal
+|---|---|---|---|
+|<internal>`report_type`|String|Type of report. </internal>|
 |`report_date`|String|Date report ran.|
 |`start_date`|String|Start Date.|
 |`end_date`|String|End Date.|
