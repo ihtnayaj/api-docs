@@ -60,8 +60,8 @@ None
 
 ### Response Data Details
 
-| Field Name | Datatype | Description | Internal
-|---|---|---|---|
+| <internal> Field Name | Datatype | Description </internal> |
+|---|---|---|
 |<internal>`report_type`|String|Type of report. </internal>|
 |`report_date`|String|Date report ran.|
 |`start_date`|String|Start Date.|
